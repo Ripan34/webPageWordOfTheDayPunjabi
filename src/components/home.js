@@ -20,7 +20,7 @@ const Home = () => {
                 <div className={styles.desc}>
                     and easy sharing and printing options.
                 </div>
-                <a href="https://google.com">
+                <a href="https://apps.apple.com/us/app/word-of-the-day-punjabi/id1672417514">
                     <img alt="download" className={styles.dnd} src={dnd}/>
                 </a>
                 <div className={styles.cpyR}>&copy; COPYRIGHT 2023, Word of the day Punjabi.</div>
